@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and journey as a Front-End Developer.
-The website is designed to provide visitors with information about me, my technical expertise, and the projects I have built.
+Welcome to my personal portfolio! This project showcases my skills, projects, and journey as a Front-End Developer.
+The webpage is designed to provide visitors with information about me, my technical expertise, and the projects I have built.
 
 ## 🚀 Features
 
